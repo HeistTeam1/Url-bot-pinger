@@ -17,7 +17,7 @@ Set your URLs using numbered environment variables:
 
 
 ## Deployment
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kustbots/keep-alive-by-kustbots)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HeistTeam1/keep-alive-by-heistbots)
 
 ### Deployment Steps:
 1. Click the "Deploy to Cloudflare Workers" button above
